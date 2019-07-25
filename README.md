@@ -44,9 +44,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
 * [Canadian Institute for Cybersecurity's Datasets](https://www.unb.ca/cic/datasets/index.html)
 * [UGR'16: A New Dataset for the Evaluation of Cyclostationarity-Based Network IDSs](https://nesg.ugr.es/nesg-ugr16/)
-<!--- 
-* [Digital corpora for use in computer forensics education research](https://digitalcorpora.org/)
--->
 * [Traffic Data from Kyoto University's Honeypots](http://www.takakura.com/Kyoto_data/)
 
 ## [↑](#table-of-contents) Papers
@@ -105,7 +102,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models](https://arxiv.org/pdf/1804.04637.pdf)
 * [A state-of-the-art survey of malware detection approaches using data mining techniques.](https://link.springer.com/article/10.1186/s13673-018-0125-x)
 
-* Not classified yet
+* **Not classified yet**
 * [Polonium – Tera-Scale Graph Mining for Malware Detection](http://www.covert.io/research-papers/security/Polonium%20-%20Tera-Scale%20Graph%20Mining%20for%20Malware%20Detection.pdf)
 * [Выбор технологий Data Mining для систем обнаружения вторжений в корпоративную сеть (RUS)](http://engjournal.ru/articles/987/987.pdf)
 * [Нейросетевой подход к иерархическому представлению компьютерной сети в задачах информационной безопасности (RUS)](http://engjournal.ru/articles/534/534.pdf)
