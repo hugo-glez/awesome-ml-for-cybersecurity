@@ -21,7 +21,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## [↑](#table-of-contents) Datasets
 
 * [Samples of Security Related Data](http://www.secrepo.com/)
-* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/ideval/data/)
+* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/ideval/data/) Not found!
 * [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
 * [Open Data Sets](http://csr.lanl.gov/data/)
 * [Data Capture from National Security Agency](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
@@ -42,7 +42,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [EMBER](https://github.com/endgameinc/ember)
 * [Vizsec Research](https://vizsec.org/data/)
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
-
+* [Canadian Institute for Cybersecurity's Datasets](https://www.unb.ca/cic/datasets/index.html)
+* [UGR'16: A New Dataset for the Evaluation of Cyclostationarity-Based Network IDSs](https://nesg.ugr.es/nesg-ugr16/)
+<!--- 
+* [Digital corpora for use in computer forensics education research](https://digitalcorpora.org/)
+-->
+* [Traffic Data from Kyoto University's Honeypots](http://www.takakura.com/Kyoto_data/)
 ## [↑](#table-of-contents) Papers
 
 * [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
