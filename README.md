@@ -48,47 +48,70 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Digital corpora for use in computer forensics education research](https://digitalcorpora.org/)
 -->
 * [Traffic Data from Kyoto University's Honeypots](http://www.takakura.com/Kyoto_data/)
+
 ## [↑](#table-of-contents) Papers
 
-* [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
-* [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](http://ieeexplore.ieee.org/document/5504793/?reload=true)
+* **2004**
 * [Anomalous Payload-Based Network Intrusion Detection](https://link.springer.com/chapter/10.1007/978-3-540-30143-1_11)
+* [PAYL – Anomalous Payload-based Network Intrusion Detection](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
+
+* **2007**
+* [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
+
+* **2018**
+* [Exploiting machine learning to subvert your spam filter](https://dl.acm.org/citation.cfm?id=1387709.1387716)
+
+* **2010**
+* [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](http://ieeexplore.ieee.org/document/5504793/?reload=true)
+* [Notos – Building a Dynamic Reputation System for DNS](http://www.covert.io/research-papers/security/Notos%20-%20Building%20a%20dynamic%20reputation%20system%20for%20dns.pdf)
+
+* **2011**
+* [Kopis – Detecting malware domains at the upper dns hierarchy](http://www.covert.io/research-papers/security/Kopis%20-%20Detecting%20malware%20domains%20at%20the%20upper%20dns%20hierarchy.pdf)
+
+* **2012**
 * [Malicious PDF detection using metadata and structural features](http://dl.acm.org/citation.cfm?id=2420987)
 * [Adversarial support vector machine learning](https://dl.acm.org/citation.cfm?id=2339697)
-* [Exploiting machine learning to subvert your spam filter](https://dl.acm.org/citation.cfm?id=1387709.1387716)
 * [CAMP – Content Agnostic Malware Protection](http://www.covert.io/research-papers/security/CAMP%20-%20Content%20Agnostic%20Malware%20Protection.pdf)
-* [Notos – Building a Dynamic Reputation System for DNS](http://www.covert.io/research-papers/security/Notos%20-%20Building%20a%20dynamic%20reputation%20system%20for%20dns.pdf)
-* [Kopis – Detecting malware domains at the upper dns hierarchy](http://www.covert.io/research-papers/security/Kopis%20-%20Detecting%20malware%20domains%20at%20the%20upper%20dns%20hierarchy.pdf)
 * [Pleiades – From Throw-away Traffic To Bots – Detecting The Rise Of DGA-based Malware](http://www.covert.io/research-papers/security/From%20throw-away%20traffic%20to%20bots%20-%20detecting%20the%20rise%20of%20dga-based%20malware.pdf)
+
+* **2013**
 * [EXPOSURE – Finding Malicious Domains Using Passive DNS Analysis](http://www.covert.io/research-papers/security/Exposure%20-%20Finding%20malicious%20domains%20using%20passive%20dns%20analysis.pdf)
-* [Polonium – Tera-Scale Graph Mining for Malware Detection](http://www.covert.io/research-papers/security/Polonium%20-%20Tera-Scale%20Graph%20Mining%20for%20Malware%20Detection.pdf)
+
+* **2014**
 * [Nazca – Detecting Malware Distribution in Large-Scale Networks](http://www.covert.io/research-papers/security/Nazca%20-%20%20Detecting%20Malware%20Distribution%20in%20Large-Scale%20Networks.pdf)
-* [PAYL – Anomalous Payload-based Network Intrusion Detection](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
-* [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
 * [Applications of Machine Learning in Cyber Security](https://www.researchgate.net/publication/283083699_Applications_of_Machine_Learning_in_Cyber_Security)
-* [Data Mining для построения систем обнаружения сетевых атак (RUS)](http://vak.ed.gov.ru/az/server/php/filer.php?table=att_case&fld=autoref&key%5B%5D=100003407)
-* [Выбор технологий Data Mining для систем обнаружения вторжений в корпоративную сеть (RUS)](http://engjournal.ru/articles/987/987.pdf)
-* [Нейросетевой подход к иерархическому представлению компьютерной сети в задачах информационной безопасности (RUS)](http://engjournal.ru/articles/534/534.pdf)
-* [Методы интеллектуального анализа данных и обнаружение вторжений (RUS)](http://vestnik.sibsutis.ru/uploads/1459329553_3576.pdf)
 * [Dimension Reduction in Network Attacks Detection Systems](http://elib.bsu.by/bitstream/123456789/120105/1/v17no3p284.pdf)
-* [Rise of the machines: Machine Learning & its cyber security applications](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/rise-of-the-machines-preliminaries-wp-new-template-final_web.pdf)
-* [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
+
+* **2016**
+* [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
 * [Weaponizing Data Science for Social Engineering — Automated E2E Spear Phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
+
+* **2017**
 * [Machine Learning: A Threat-Hunting Reality Check](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
-* [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
+* [Rise of the machines: Machine Learning & its cyber security applications](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/rise-of-the-machines-preliminaries-wp-new-template-final_web.pdf)
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
 * [eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys](https://arxiv.org/pdf/1702.08568.pdf)
+* [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
+
+* **2018**
+* [4 Ways Machine Learning Is Powering Smarter Threat Intelligence](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
+* [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
 * [Big Data Technologies for Security Event Correlation Based on Event Type Accounting (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/2-16-524-17_1.-Kotenko.pdf)
-* [Investigation of The Use of Neural Networks for Detecting Low-Intensive Ddоs-Atak of Applied Level (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
+* [eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys](https://arxiv.org/pdf/1702.08568.pdf)
 * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
 * [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
-* [Anomaly Detection in Computer System
-by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
 * [EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models](https://arxiv.org/pdf/1804.04637.pdf)
 * [A state-of-the-art survey of malware detection approaches using data mining techniques.](https://link.springer.com/article/10.1186/s13673-018-0125-x)
-* [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
+
+* Not classified yet
+* [Polonium – Tera-Scale Graph Mining for Malware Detection](http://www.covert.io/research-papers/security/Polonium%20-%20Tera-Scale%20Graph%20Mining%20for%20Malware%20Detection.pdf)
+* [Выбор технологий Data Mining для систем обнаружения вторжений в корпоративную сеть (RUS)](http://engjournal.ru/articles/987/987.pdf)
+* [Нейросетевой подход к иерархическому представлению компьютерной сети в задачах информационной безопасности (RUS)](http://engjournal.ru/articles/534/534.pdf)
+* [Методы интеллектуального анализа данных и обнаружение вторжений (RUS)](http://vestnik.sibsutis.ru/uploads/1459329553_3576.pdf)
+* [Investigation of The Use of Neural Networks for Detecting Low-Intensive Ddоs-Atak of Applied Level (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
+* [Anomaly Detection in Computer System by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
 
 ## [↑](#table-of-contents) Books
 
